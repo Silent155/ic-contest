@@ -1,1 +1,1 @@
-# ic-contest
+# ic-contest practice
